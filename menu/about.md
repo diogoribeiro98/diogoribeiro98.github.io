@@ -5,5 +5,3 @@ permalink: /about
 ---
 
 ### Welcome to Diagonal Thoughts!
-
-This is a simple idea

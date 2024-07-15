@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "A Mathematical template post"
 author: "dribeiro"
 categories: journal
